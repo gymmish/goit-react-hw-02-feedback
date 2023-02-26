@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gymmish/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/gymmish/goit-react-hw-02-feedback/static/js/main.538877bd.js",
+    "index.html": "/gymmish/goit-react-hw-02-feedback/index.html",
+    "main.7acaea2f.css.map": "/gymmish/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
+    "main.538877bd.js.map": "/gymmish/goit-react-hw-02-feedback/static/js/main.538877bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.538877bd.js"
+  ]
+}
